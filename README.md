@@ -1,7 +1,7 @@
 
 # 📊 Company Cost Analysis
 
-A Python-based data analysis project focused on evaluating and visualizing cost structures of companies over time. It helps in identifying trends, inefficiencies, and budget bottlenecks using intuitive visual outputs and structured reporting.
+A Power Bi-based data analysis project focused on evaluating and visualizing cost structures of companies over time. It helps in identifying trends, inefficiencies, and budget bottlenecks using intuitive visual outputs and structured reporting.
 
 ---
 
@@ -41,34 +41,14 @@ A Python-based data analysis project focused on evaluating and visualizing cost 
 
 ## 🛠 Tech Stack
 
-- **Python 3.7+**  
-- Libraries:
-  - `pandas`, `numpy` – data handling  
-  - `matplotlib`, `seaborn` – visualization  
-  - `PyYAML` – config management  
-  - `pytest` – testing  
+- **SQL**
+- **Excel**
+- **Power Bi**  
 
-Optional:
-- `plotly`, `Dash` or `Streamlit` for dashboard view  
 
----
 
-## 🚀 Getting Started
 
-### Prerequisites
 
-- Python installed (`3.7+`)
-- `pip` or `conda` environment
-
-### Installation
-
-```bash
-git clone https://github.com/MdAsif-Hossain/Company-Cost-Analysis.git
-cd Company-Cost-Analysis
-pip install -r requirements.txt
-```
-
----
 
 ## ⚙️ Usage
 
@@ -154,8 +134,8 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 **Md. Asif Hossain**  
 - GitHub: [@MdAsif-Hossain](https://github.com/MdAsif-Hossain)  
-- Email: *your_email@example.com*  
-- LinkedIn: *Add if available*  
+- Email: *asifhossain8612@gmail.com*  
+
 
 ---
 
